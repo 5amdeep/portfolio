@@ -1,0 +1,11 @@
+.container {
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  background-color: beige;
+}
+
+/* dark theme specific */
+.dark {
+  color: beige;
+  background-color: black;
+}
